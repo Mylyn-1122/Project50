@@ -1,0 +1,15 @@
+
+.outside{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.inside{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    flex-basis: 7cm;
+}
+
